@@ -1,0 +1,19 @@
+{
+  "id": "test-001",
+  "nom": "Martin Dupont",
+  "raison_sociale": "Coiffure Martin",
+  "activite": "coiffeur",
+  "metier": "coiffeur",
+  "adresse": "12 Rue de Paris, 75001 Paris",
+  "ville": "Paris",
+  "telephone": "+33123456789",
+  "email": "contact@coiffure-martin.fr",
+  "portable": "+33612345678",
+  "has_website": false,
+  "description": "Salon de coiffure tendance au cœur de Paris",
+  "annee_creation": "2015",
+  "siret": "12345678900012",
+  "photos": [],
+  "rating": 4.5,
+  "review_count": 12
+}
