@@ -10,10 +10,15 @@
   "email": "contact@coiffure-martin.fr",
   "portable": "+33612345678",
   "has_website": false,
-  "description": "Salon de coiffure tendance au cœur de Paris",
+  "description": null,
   "annee_creation": "2015",
   "siret": "12345678900012",
   "photos": [],
-  "rating": 4.5,
-  "review_count": 12
+  "rating": null,
+  "review_count": null,
+  "address": null,
+  "phone": null,
+  "hours": null,
+  "_enriched": true,
+  "_enrichedAt": "2026-02-21T16:08:30.839Z"
 }
